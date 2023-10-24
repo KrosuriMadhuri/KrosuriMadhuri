@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrosuriMadhuri
+- 👋 Hi, I’m Krosuri Madhuri
 - 👀 I'm passionate about the deep exploration of artificial intelligence (AI) and its applications.
 - 🌱 Currently, I'm on a learning journey focused on AI, data science, and digital business, constantly expanding my knowledge and skills in these areas.
 - 💞️ I'm enthusiastic about collaborating on AI-related projects, research, or any ventures that involve the exciting world of artificial intelligence.
